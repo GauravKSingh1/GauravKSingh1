@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Gaurav Singh</h1>
+<h1 align="center">Hi 👋! My name is Gaurav Singh</h1>
 <h2 align="center">I'm an aspiring Data Scientist.</h2>
 
 ###
@@ -62,7 +62,7 @@
 
 
 
-![snake gif](https://github.com/tusharxgairola/tusharxgairola/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/GauravKSingh1/GauravKSingh1/blob/output/github-snake-dark.svg)
 
 <hr/>
 
