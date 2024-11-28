@@ -62,7 +62,7 @@
 
 
 
-![snake gif](https://github.com/GauravKSingh1/GauravKSingh1/blob/output/github-snake-dark.svg)
+#![snake gif](https://github.com/GauravKSingh1/GauravKSingh1/blob/output/github-snake-dark.svg)
 
 <hr/>
 
