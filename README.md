@@ -56,9 +56,6 @@
 ###
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/GauravKSingh1/count.svg?"  />
-</div>
 
 
 ![snake gif](https://github.com/GauravKSingh1/GauravKSingh1/blob/output/github-snake-dark.svg)
